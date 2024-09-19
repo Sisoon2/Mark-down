@@ -1,1 +1,1 @@
-[네이버](naver.com)
+[네이버]((https://www.naver.com))
